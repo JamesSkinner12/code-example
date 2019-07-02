@@ -1,9 +1,8 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: james
+ * User: James Skinner
  * Date: 2/10/18
- * Time: 8:45 PM
  */
 
 namespace App\Classes;
